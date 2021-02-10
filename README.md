@@ -1,6 +1,7 @@
 hello-world
 ===========
 
-first repository
+Hello people!
 
-This is cool. I'm entering a little bit more information so I can close the Issue I just created.
+Lasurfer here. I like data, motorcycles, hotrods, and airplanes.
+I also like fiddling with electronics and working on DIY projects.
